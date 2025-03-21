@@ -1,0 +1,10 @@
+C:\Users\coron\Downloads\citavisual\ConsolApp\bin\Debug\ConsolApp.exe.config
+C:\Users\coron\Downloads\citavisual\ConsolApp\bin\Debug\ConsolApp.exe
+C:\Users\coron\Downloads\citavisual\ConsolApp\bin\Debug\ConsolApp.pdb
+C:\Users\coron\Downloads\citavisual\ConsolApp\obj\Debug\ConsolApp.csproj.AssemblyReference.cache
+C:\Users\coron\Downloads\citavisual\ConsolApp\obj\Debug\ConsolApp.csproj.CoreCompileInputs.cache
+C:\Users\coron\Downloads\citavisual\ConsolApp\obj\Debug\ConsolApp.exe
+C:\Users\coron\Downloads\citavisual\ConsolApp\obj\Debug\ConsolApp.pdb
+C:\Users\coron\Downloads\citavisual\ConsolApp\bin\Debug\LibraryCitas.dll
+C:\Users\coron\Downloads\citavisual\ConsolApp\bin\Debug\LibraryCitas.pdb
+C:\Users\coron\Downloads\citavisual\ConsolApp\obj\Debug\ConsolApp.csproj.Up2Date
